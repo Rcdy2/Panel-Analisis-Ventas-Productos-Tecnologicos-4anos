@@ -18,8 +18,8 @@ Este repositorio contiene el Panel de Análisis de Ventas de Productos Tecnológ
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/tuusuario/Panel-Ventas-Productos-Tecnologicos-4anos.git
-2. Abrir el archivo Excel en el repositorio.
+2. Abrir el archivo Excel (dashborad reporte de ventas productos tecnologicos.xlsx) en el repositorio.
 
-3. Explorar el panel de control y utilizar las funciones interactivas para analizar los datos.
+3. Explorar el dashboard y utilizar las funciones interactivas para analizar los datos.
 
 
