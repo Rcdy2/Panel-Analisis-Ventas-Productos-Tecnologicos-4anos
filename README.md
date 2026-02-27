@@ -1,4 +1,4 @@
-# Panel Analisis Ventas Productos Tecnologicos durante 4 años
+# Análisis de Ventas de Productos Tecnologicos con Excel - Dashboard Interactivo (4 años de datos)
 Panel de control de ventas de productos tecnológicos en tiendas
 
 ## Descripción General 
@@ -23,12 +23,26 @@ Analizar los datos de ventas de productos tecnológicos en tiendas durante 4 añ
 - **Visualización y creación de dashboard:** Desarrollar un dashboard interactivo en Excel para visualizar el rendimiento de ventas. Incluir gráficos y tablas que resuman métricas clave como ventas totales (S/7.3M), costos totales (S/3.2M), ganancias totales (S/4.1M) y margen de ganancia (52%).
 - **Insights y recomendaciones:** Obtener información útil a partir del análisis de datos. Generar recomendaciones para mejorar las estrategias de ventas, optimizar la gestión del inventario y dirigirse a segmentos específicos de productos.
 
+## INSIGHTS CLAVE PARA EL NEGOCIO 
+- **Producto estrella:** Desktops genera S/1.14M (15.6% de ventas totales), liderando ampliamente
+- **Estacionalidad:** Picos en febrero (S/415K en 2023) y diciembre (S/302K en 2021) - ideal para campañas
+- **Margen consistente:** 52% constante durante 4 años, indica estabilidad en precios y costos
+- **Concentración de ventas:** Las 3 subcategorías top (Desktops, Televisions, Smart phones) concentran el 33% de ventas totales
+- **Oportunidad de crecimiento:** Washers & Dryers (S/257K) tiene potencial versus Desktops (S/1.14M)
+
 ## Pasos involucrados
 1. **Recopilación y preparación de datos:** Importar datos de ventas a Excel desde las fuentes correspondientes. Limpiar los datos eliminando duplicados, gestionando valores faltantes y formateando fechas correctamente.
 2. **Análisis de datos:** Calcular métricas como ventas totales, costos totales, ganancias y márgenes mediante funciones como SUMA, PROMEDIO, CONTAR, SI y BUSCARV. Utilizar tablas dinámicas para resumir datos por subcategoría de producto, mes y año.
 3. **Visualización y creación del dashboard:** Diseñar un dashboard con secciones para KPIs principales, análisis de tendencias mensuales (2021-2024), Top 10 de productos por subcategoría y evolución del margen de ganancia. Incluir gráficos de líneas para tendencias, gráficos de barras para comparaciones y elementos interactivos como segmentadores para filtrar por año o categoría.
 4. **Análisis y recomendaciones:** Analizar las tendencias de ventas, identificar los productos más vendidos (Desktops lidera con S/1.14M), los períodos de mayor venta (picos en febrero y diciembre) y las áreas de mejora. Ofrecer recomendaciones prácticas basadas en información basada en datos.
 
+## HABILIDADES DEMOSTRADAS 
+- **Limpieza de datos:** Eliminación de duplicados, manejo de valores faltantes y formateo de fechas
+- **Análisis de datos con Excel:** Tablas dinámicas, funciones avanzadas (BUSCARV, SUMAR.SI, PROMEDIO.SI, SI.ERROR)
+- **Visualización de datos:** Diseño de dashboard interactivo con gráficos de líneas, barras y segmentadores
+- **Business Intelligence:** Identificación de tendencias de ventas, productos top y patrones estacionales
+- **Toma de decisiones:** Generación de recomendaciones basadas en datos para optimizar inventario y campañas
+  
 ## Funciones y técnicas utilizadas
 - **Manipulación de datos:** Funciones como ORDENAR, FILTRAR, SUMAR.SI, CONTAR.SI, PROMEDIO.SI, SI.ERROR para procesamiento y análisis de datos.
 - **Tablas dinámicas:** Para resumir y analizar grandes conjuntos de datos, extrayendo información significativa por subcategoría, mes y año.
@@ -39,7 +53,8 @@ Analizar los datos de ventas de productos tecnológicos en tiendas durante 4 añ
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/tuusuario/Panel-Ventas-Productos-Tecnologicos-4anos.git
-2. Abrir el archivo Excel (dashborad reporte de ventas productos tecnologicos.xlsx) en el repositorio.
+   ```
+2. Abrir el archivo Excel (dashboard reporte de ventas productos tecnologicos.xlsx) en el repositorio.
 3. Explorar el dashboard y utilizar las funciones interactivas para analizar los datos.
 
 ## Conclusión
