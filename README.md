@@ -10,6 +10,16 @@ Este repositorio contiene el Panel de Análisis de Ventas de Productos Tecnológ
 - **Indicadores KPI:** Descripción general de ventas totales (S/ 7.3M), costos totales (S/ 3.2M) y ganancias totales (S/ 4.1M).
 - **Análisis temporal:** Tendencias mensuales 2021-2024
 - **Top 10 por productos:** Ranking de los 10 productos más vendidos
-- **Margen de ganancia:** Seguimiento del margen promedio (52%) a lo largo del período analizado.
+- **Margen de ganancia:** Seguimiento del margen promedio (52% constante (2021-2024)) a lo largo del período analizado.
 - **Elementos interactivos:** Segmentadores y filtros para profundizar en subconjuntos de datos específicos.
 - **Diseño intuitivo:** Diseño claro y secciones organizadas para una navegación intuitiva.
+
+## Empezando
+1. Clonar el repositorio:
+   ```bash
+   git clone https://github.com/tuusuario/Panel-Ventas-Productos-Tecnologicos-4anos.git
+2. Abrir el archivo Excel en el repositorio.
+
+3. Explorar el panel de control y utilizar las funciones interactivas para analizar los datos.
+
+
