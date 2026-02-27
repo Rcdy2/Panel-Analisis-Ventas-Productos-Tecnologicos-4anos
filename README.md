@@ -23,7 +23,7 @@ Analizar los datos de ventas de productos tecnológicos en tiendas durante 4 añ
 - **Visualización y creación de dashboard:** Desarrollar un dashboard interactivo en Excel para visualizar el rendimiento de ventas. Incluir gráficos y tablas que resuman métricas clave como ventas totales (S/7.3M), costos totales (S/3.2M), ganancias totales (S/4.1M) y margen de ganancia (52%).
 - **Insights y recomendaciones:** Obtener información útil a partir del análisis de datos. Generar recomendaciones para mejorar las estrategias de ventas, optimizar la gestión del inventario y dirigirse a segmentos específicos de productos.
 
-## INSIGHTS CLAVE PARA EL NEGOCIO 
+## INSIGHTS claves
 - **Producto estrella:** Desktops genera S/1.14M (15.6% de ventas totales), liderando ampliamente
 - **Estacionalidad:** Picos en febrero (S/415K en 2023) y diciembre (S/302K en 2021) - ideal para campañas
 - **Margen consistente:** 52% constante durante 4 años, indica estabilidad en precios y costos
@@ -36,7 +36,7 @@ Analizar los datos de ventas de productos tecnológicos en tiendas durante 4 añ
 3. **Visualización y creación del dashboard:** Diseñar un dashboard con secciones para KPIs principales, análisis de tendencias mensuales (2021-2024), Top 10 de productos por subcategoría y evolución del margen de ganancia. Incluir gráficos de líneas para tendencias, gráficos de barras para comparaciones y elementos interactivos como segmentadores para filtrar por año o categoría.
 4. **Análisis y recomendaciones:** Analizar las tendencias de ventas, identificar los productos más vendidos (Desktops lidera con S/1.14M), los períodos de mayor venta (picos en febrero y diciembre) y las áreas de mejora. Ofrecer recomendaciones prácticas basadas en información basada en datos.
 
-## HABILIDADES DEMOSTRADAS 
+## Habilidades demostradas
 - **Limpieza de datos:** Eliminación de duplicados, manejo de valores faltantes y formateo de fechas
 - **Análisis de datos con Excel:** Tablas dinámicas, funciones avanzadas (BUSCARV, SUMAR.SI, PROMEDIO.SI, SI.ERROR)
 - **Visualización de datos:** Diseño de dashboard interactivo con gráficos de líneas, barras y segmentadores
