@@ -35,13 +35,12 @@ Analizar los datos de ventas de productos tecnológicos en tiendas durante 4 añ
 - **Gráficos y tablas:** Visualización de tendencias mensuales de ventas y ranking de productos para facilitar la toma de decisiones.
 - **Formato condicional y validación de datos:** Para resaltar tendencias importantes (como picos de ventas) y garantizar la precisión de los datos mediante técnicas de formato y validación.
 
-
 ## Empezando
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/tuusuario/Panel-Ventas-Productos-Tecnologicos-4anos.git
 2. Abrir el archivo Excel (dashborad reporte de ventas productos tecnologicos.xlsx) en el repositorio.
-
 3. Explorar el dashboard y utilizar las funciones interactivas para analizar los datos.
 
-
+#Conclusión
+Este proyecto aprovecha las capacidades avanzadas de Excel para analizar eficazmente los datos de ventas de productos tecnológicos durante 4 años (2021-2024). Siguiendo pasos estructurados y empleando las funciones y técnicas adecuadas, las partes interesadas pueden obtener información valiosa sobre el rendimiento de ventas, identificar los productos más rentables (como Desktops) y tomar decisiones empresariales informadas para el crecimiento y la mejora del negocio.
