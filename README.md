@@ -42,5 +42,5 @@ Analizar los datos de ventas de productos tecnológicos en tiendas durante 4 añ
 2. Abrir el archivo Excel (dashborad reporte de ventas productos tecnologicos.xlsx) en el repositorio.
 3. Explorar el dashboard y utilizar las funciones interactivas para analizar los datos.
 
-# Conclusión
+## Conclusión
 Este proyecto aprovecha las capacidades avanzadas de Excel para analizar eficazmente los datos de ventas de productos tecnológicos durante 4 años (2021-2024). Siguiendo pasos estructurados y empleando las funciones y técnicas adecuadas, las partes interesadas pueden obtener información valiosa sobre el rendimiento de ventas, identificar los productos más rentables (como Desktops) y tomar decisiones empresariales informadas para el crecimiento y la mejora del negocio.
